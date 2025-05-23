@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgOutbox", "PgOutbox\PgOutbox.csproj", "{9BC5EDBE-16C6-448E-A063-900A50BC4CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgOutbox.Tests", "PgOutbox.Tests\PgOutbox.Tests.csproj", "{E9A0FBBB-E160-4624-AC41-D07A8293DFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC5EDBE-16C6-448E-A063-900A50BC4CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC5EDBE-16C6-448E-A063-900A50BC4CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC5EDBE-16C6-448E-A063-900A50BC4CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC5EDBE-16C6-448E-A063-900A50BC4CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A0FBBB-E160-4624-AC41-D07A8293DFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A0FBBB-E160-4624-AC41-D07A8293DFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A0FBBB-E160-4624-AC41-D07A8293DFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A0FBBB-E160-4624-AC41-D07A8293DFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
